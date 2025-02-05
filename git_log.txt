@@ -1,0 +1,63 @@
+commit 571e48d97b87be1c937a4cb9642a8e27fea4a90d
+Merge: c4afd67 2918ad1
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Wed Feb 5 12:23:55 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 2918ad1558e65c2a6fe2b2f9af54f5752eb4c23c
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Wed Feb 5 12:16:23 2025 -0800
+
+    Update index.html
+
+commit c4afd674c66285a7efdd34cd91223c85e8c182e5
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Wed Feb 5 12:15:22 2025 -0800
+
+    Update index.html
+
+commit d6ab03657b92dd2e7e81c04a796ede42c333c95e
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Tue Feb 4 15:23:07 2025 -0800
+
+    Update index.html
+
+commit 59128d5ba4ad832a465cd9053e0de58685da63b8
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Tue Feb 4 15:17:56 2025 -0800
+
+    Update index.html
+
+commit 97b90921bf8ecbb863a31f0415f24b57ef51d7fc
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Fri Jan 31 13:31:20 2025 -0800
+
+    added README.md
+
+commit c5473fdc60ad2355a005219a68e5768b4634ec53
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Fri Jan 31 13:19:16 2025 -0800
+
+    added README.md file
+
+commit 4c99bbc459fb7a31bc0e44dab010641a0f3475da
+Merge: 1d2bfc0 6c89f12
+Author: DillinN <98872702+DillinN@users.noreply.github.com>
+Date:   Fri Jan 31 13:13:17 2025 -0800
+
+    Merge pull request #1 from DillinN/info-fill
+    
+    filled in blanks
+
+commit 6c89f12ea0e35fda06afe5edac4df8e209a362e2
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Fri Jan 31 13:02:36 2025 -0800
+
+    filled in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
