@@ -1,0 +1,110 @@
+commit 9e8ad0b81234400beb881d06299c7204a6025738
+Merge: c5f6038 c2a9272
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Mon Feb 10 11:46:22 2025 -0800
+
+    Merge branch 'Jon's-branch'
+
+commit c5f6038d0b9b2da8ba5c993b0dcbe95769c3f00e
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Mon Feb 10 11:41:34 2025 -0800
+
+    My edit
+
+commit c2a92723497f3592f0340007033fd2230e9b8ccb
+Author: Jonjy <jondlittle12@gmail.com>
+Date:   Mon Feb 10 11:33:00 2025 -0800
+
+    Update index.html
+
+commit 0d1f3c47e333d292040ae85fd2b5f8b586a93b9a
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Wed Feb 5 12:43:00 2025 -0800
+
+    Added git log and repo location files
+
+commit 571e48d97b87be1c937a4cb9642a8e27fea4a90d
+Merge: c4afd67 2918ad1
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Wed Feb 5 12:23:55 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 2918ad1558e65c2a6fe2b2f9af54f5752eb4c23c
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Wed Feb 5 12:16:23 2025 -0800
+
+    Update index.html
+
+commit c4afd674c66285a7efdd34cd91223c85e8c182e5
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Wed Feb 5 12:15:22 2025 -0800
+
+    Update index.html
+
+commit d6ab03657b92dd2e7e81c04a796ede42c333c95e
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Tue Feb 4 15:23:07 2025 -0800
+
+    Update index.html
+
+commit 59128d5ba4ad832a465cd9053e0de58685da63b8
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Tue Feb 4 15:17:56 2025 -0800
+
+    Update index.html
+
+commit 97b90921bf8ecbb863a31f0415f24b57ef51d7fc
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Fri Jan 31 13:31:20 2025 -0800
+
+    added README.md
+
+commit 4c99bbc459fb7a31bc0e44dab010641a0f3475da
+Merge: 1d2bfc0 6c89f12
+Author: DillinN <98872702+DillinN@users.noreply.github.com>
+Date:   Fri Jan 31 13:13:17 2025 -0800
+
+    Merge pull request #1 from DillinN/info-fill
+    
+    filled in blanks
+
+commit 6c89f12ea0e35fda06afe5edac4df8e209a362e2
+Author: DillinN <dillinmurguia123@gmail.com>
+Date:   Fri Jan 31 13:02:36 2025 -0800
+
+    filled in blanks
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
